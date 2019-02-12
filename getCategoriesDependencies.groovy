@@ -10,10 +10,6 @@ import org.apache.commons.collections.CollectionUtils
 
 import static Constants.*
 
-/**
- * The script generates personalization actions automatically (like you do from smartedit)
- */
-
 class Constants {
     static FlexibleSearchService flexibleSearchService
     static ModelService modelService
